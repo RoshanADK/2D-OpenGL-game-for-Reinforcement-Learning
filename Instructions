@@ -1,0 +1,7 @@
+ The file contains OpenGL code for a 2D game simulation.
+TO run it , download Visual C++ (I had used version 6 fixing the compatibilty issues)
+Copy this folder to your myproject directory under (program files(x86)/Microsoft Visual Studio/Myprojects)
+then open it through Visual c++ and give it a run .
+(Also can be used a mini-project for Computer Graphics 6th semester Engineering Lab Syllabus)
+Future Enhancement for the project is implementation of Reinforcement Learning and making the game Learn the optimal steps automatically.
+(PS:ML is fun)
